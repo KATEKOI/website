@@ -1,0 +1,202 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.mainsec {
+    height: 100vh;
+    width: 100%;
+    font-family: sans-serif;
+}
+.navbar {
+    height: 8vh;
+    display: flex;
+}
+.ul {
+    display: flex;
+    align-items: center;
+    margin-left: 350px;
+}
+.redd {
+    color: rgb(130, 177, 216);
+}
+.list {
+    list-style: none;
+    margin-left: 30px;
+    font-size: 18px;
+    font-weight: 500;
+    transition: color 0.5s ease;
+    color: black;
+    text-decoration: none;
+    width: 100px;
+    height: 5vh;
+    padding-right: 15px;
+    padding-top: 1vh;
+}
+.list:hover {
+    background-color: black;
+    width: 100px;
+    height: 5vh;
+    color: white;
+    border-radius: 10px;
+}
+.display {
+    height: 85vh;
+    width: 90%;
+    background-color: rgb(246,251,255);
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.port {
+    margin-left: 70px;
+    margin-top: 1vh;
+    font-size: 30px;
+}
+.img {
+    height: 85vh;
+    width: 400px;
+}
+.img2 {
+    border-radius: 50%;
+    height: 370px;
+    width: 370px;
+    background-color: black;
+    border:1px solid rgb(246,251,255);
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.prof {
+    color: rgb(246,251,255);
+    padding-top: 28vh;
+    padding-left: 90px;
+    font-size: 50px;
+}
+.about {
+    height: 80vh;
+}
+.name {
+    font-size: 55px;
+    font-weight: 700;
+    margin-top: 25vh;
+    margin-left: 50px;
+}
+.create {
+    font-size: 23px;
+    margin-top: 5vh;
+    margin-left: 50px;
+}
+.span {
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 20vh;
+}
+.btn {
+    height: 7vh;
+    width: 120px;
+    border: 2px solid black;
+    color: white;
+    margin-top: 5vh;
+    margin-left: 50px;
+    background-color: black;
+}
+.btn:hover {
+    background-color: white;
+    border: 2px solid black;
+    color: black;
+}
+/* ==================================about */
+.sec2 {
+    overflow: hidden;
+    height: 100vh;
+    width: 100%;
+    font-family: sans-serif;
+}
+.trp {
+    display: flex;
+    margin-top: 5vh;
+}
+.am {
+    margin-top: 15vh;
+    margin-left: 50px;
+}
+.par {
+    width: 300px;
+    margin-left: 50px;
+}
+.theader {
+    display: flex;
+    flex-direction: column;
+    margin-left: 80px;
+}
+.serve {
+    margin-top: 5vh;
+    margin-left: 50px;
+}
+.exp {
+    padding-top: 3vh;
+}
+.display2 {
+    height: 85vh;
+    width: 90%;
+    background-color: rgb(246,251,255);
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+/* ==============================contact page */
+.cont {
+    display: flex;
+    flex-direction: column;
+    margin-top: 5vh;
+    margin-left: 150px;
+}
+.map {
+    height: 15vh;
+    width: 250px;
+    border: 1px solid black;
+    margin-top: 3vh;
+}
+.mm {
+    height: 20px;
+    padding-left: 110px;
+    padding-top: 2vh;
+}
+.am2 {
+    margin-top: 15vh;
+    margin-left: 200px;
+}
+.ppp {
+    padding-top: 2vh;
+    padding-left: 20px;
+}
+.pp {
+    padding-top: 2vh;
+    padding-left: 70px;
+}
+.createee1 {
+    height: 25vh;
+    width: 300px;
+    background-color: rgb(246,251,255);
+    color: black;
+    border-radius: 15px;
+    margin-left: 150px;
+    border: 2px solid black;
+    margin-top: 5vh;
+}
+.createee1:hover {
+    background-color: black;
+    color: rgb(246,251,255);
+}
+.h6 {
+    padding-left: 40px;
+    padding-top: 2vh;
+    font-size: small;
+}
+.aaaa {
+    font-size: 15px;
+    padding-left: 10px;
+}
+.am5 {
+    margin-left: 215px;
+    margin-top: 15vh;
+}
